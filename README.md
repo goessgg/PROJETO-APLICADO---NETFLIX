@@ -1,0 +1,1 @@
+Este projeto visa desenvolver uma proposta de solução analítica utilizando serviços da Amazon Web Services (AWS). Através da implementação de tecnologias de computação em nuvem, este projeto buscará resolver um problema específico ou otimizar um processo em uma organização.
