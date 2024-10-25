@@ -26,8 +26,8 @@ A Netflix é uma plataforma de streaming líder globalmente, e a análise de seu
 
 O objetivo é fornecer insights que ajudem na retenção de clientes e personalização de campanhas, aproveitando dados como:
 
-Tipo de assinatura: Basic, Standard ou Premium
-Demografia: Idade, Gênero, País
-Dispositivos utilizados
-Padrões de pagamento e cancelamento
+- Tipo de assinatura: Basic, Standard ou Premium.
+- Demografia: Idade, Gênero, País.
+- Dispositivos utilizados.
+- Padrões de pagamento e cancelamento.
 
