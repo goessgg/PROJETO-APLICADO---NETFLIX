@@ -1,23 +1,33 @@
-**Nome da Organização: Amazon Web Services (AWS)**
+**Análise Exploratória e Insights sobre Assinantes da Netflix**
 
-**Descrição:** A Amazon Web Services é uma plataforma de computação em nuvem que oferece uma ampla gama de serviços, como armazenamento, processamento e análise de dados, além de soluções de machine learning e inteligência artificial. A AWS permite que empresas de todos os tamanhos acessem recursos computacionais escaláveis de forma flexível e econômica.
+**Objetivo:** Este projeto tem como foco a análise exploratória dos dados de assinantes da Netflix, utilizando datasets disponíveis no Kaggle. O objetivo é identificar padrões de comportamento e consumo, contribuindo para a retenção de clientes e a personalização de campanhas de marketing. Os resultados serão apresentados por meio de dashboards interativos e relatórios automatizados para oferecer suporte à tomada de decisão estratégica.
 
-**História:** Lançada em 2006, a AWS começou como um projeto interno da Amazon para atender suas próprias necessidades de infraestrutura. Desde então, tornou-se líder no mercado de serviços de nuvem, oferecendo mais de 200 serviços e atendendo milhões de clientes em todo o mundo.
 
-**Área de Atuação**
-	
-- Setor: Tecnologia e Computação em Nuvem
+**Sobre a Netflix**
 
-- Serviços/Produtos: Oferece serviços de infraestrutura como Amazon EC2, armazenamento com Amazon S3, bancos de dados com Amazon RDS, e soluções de análise com Amazon Redshift e AWS Glue.
+**Descrição:** A Netflix é uma plataforma global de streaming, conhecida por oferecer uma grande variedade de filmes, séries, documentários e produções originais. A empresa foi fundada em 1997, inicialmente como um serviço de aluguel de DVDs. Em 2007, migrou para o modelo de streaming, tornando-se uma das maiores plataformas de entretenimento digital do mundo. Hoje, a Netflix está presente em mais de 190 países, atendendo milhões de assinantes com diferentes perfis.
 
-- Mercado-Alvo: Empresas de todos os tamanhos, desde startups até grandes corporações, que buscam eficiência e escalabilidade através da computação em nuvem.
+**História:** A Netflix passou por diversas transformações ao longo dos anos. A expansão para o streaming digital e o investimento em produções originais consolidaram seu modelo de negócios inovador. A empresa continua evoluindo para acompanhar as mudanças nas preferências de consumo de entretenimento em um mercado altamente competitivo.
 
-**Apresentação dos Dados (Metadados)**
 
-•	Fonte dos Dados: Dados coletados de usuários e sistemas que utilizam os serviços da AWS.
+**Fonte e Dados**
+**Apresentação dos Dados (Metadados):** Os dados analisados neste projeto foram obtidos do Kaggle. Eles representam informações demográficas e comportamentais dos assinantes da Netflix, possibilitando uma análise detalhada do consumo por diferentes perfis.
 
-•	Tipos de Dados: Dados de uso de serviços, dados de desempenho de aplicações, logs de acesso e dados financeiros.
 
-•	Formato dos Dados: CSV, JSON e formatos de log.
+**Estrutura do Repositório**
+- DOCS: Contém documentos relevantes do projeto, como relatórios finais, glossário, e resumos das análises realizadas.
+- DATA: Armazena as bases de dados utilizadas no projeto, no formato CSV e outros formatos, se necessário.
+- RESULTS: Inclui o resultado final do projeto, como relatórios gerados e datasets tratados e linkados.
+- VÍDEOS: Armazena a apresentação final do projeto, explicando os insights e resultados obtidos.
+- NOTEBOOKS: Contém os Jupyter Notebooks com os scripts de análise exploratória e manipulação de dados.
 
-•	Qualidade dos Dados: Dados coletados em tempo real com verificação de integridade e segurança.
+**Descrição do Projeto**
+A Netflix é uma plataforma de streaming líder globalmente, e a análise de seus dados de assinantes oferece oportunidades de descobrir padrões importantes. Este projeto foca na exploração de dados demográficos, tipo de assinatura, dispositivos utilizados, e padrões de cancelamento e renovação.
+
+O objetivo é fornecer insights que ajudem na retenção de clientes e personalização de campanhas, aproveitando dados como:
+
+Tipo de assinatura: Basic, Standard ou Premium
+Demografia: Idade, Gênero, País
+Dispositivos utilizados
+Padrões de pagamento e cancelamento
+
